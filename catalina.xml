@@ -1,0 +1,104 @@
+<!-- Intruction:
+- Fix the path to the background images
+- Use gnome-tweaks tool to select this XML as wallpaper
+-->
+<background>
+  <starttime>
+    <year>2014</year>
+    <month>01</month>
+    <day>11</day>
+    <hour>0</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  <!-- 00:00 -->
+  <static>
+    <duration>17995.0</duration>
+    <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_8.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_8.jpg</from>
+    <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_1.jpg</to>
+  </transition>
+  <!-- 05:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_1.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_1.jpg</from>
+    <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_2.jpg</to>
+  </transition>
+  <!-- 08:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_2.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_2.jpg</from>
+    <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_3.jpg</to>
+  </transition>
+  <!-- 10:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_3.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_3.jpg</from>
+    <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_4.jpg</to>
+  </transition>
+  <!-- 13:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_4.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_4.jpg</from>
+    <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_5.jpg</to>
+  </transition>
+  <!-- 15:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_5.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_5.jpg</from>
+    <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_6.jpg</to>
+  </transition>
+  <!-- 17:00 -->
+  <static>
+    <duration>5395.0</duration>
+    <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_6.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_6.jpg</from>
+    <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_7.jpg</to>
+  </transition>
+  <!-- 18:30 -->
+  <static>
+    <duration>5395.0</duration>
+    <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_7.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_7.jpg</from>
+    <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_8.jpg</to>
+  </transition>
+  <!-- 20:00 -->
+  <static>
+    <duration>14395.0</duration>
+    <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_8.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_8.jpg</from>
+    <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_8.jpg</to>
+  </transition>
+</background>
