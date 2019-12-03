@@ -23,7 +23,7 @@
   </transition>
   <!-- 05:00 -->
   <static>
-    <duration>10795.0</duration>
+    <duration>7195.0</duration>
     <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_1.jpg</file>
   </static>
   <transition type="overlay">
@@ -31,9 +31,9 @@
     <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_1.jpg</from>
     <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_2.jpg</to>
   </transition>
-  <!-- 08:00 -->
+  <!-- 07:00 -->
   <static>
-    <duration>7195.0</duration>
+    <duration>10795.0</duration>
     <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_2.jpg</file>
   </static>
   <transition type="overlay">
@@ -43,7 +43,7 @@
   </transition>
   <!-- 10:00 -->
   <static>
-    <duration>10795.0</duration>
+    <duration>7195.0</duration>
     <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_3.jpg</file>
   </static>
   <transition type="overlay">
@@ -51,9 +51,9 @@
     <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_3.jpg</from>
     <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_4.jpg</to>
   </transition>
-  <!-- 13:00 -->
+  <!-- 12:00 -->
   <static>
-    <duration>7195.0</duration>
+    <duration>17995.0</duration>
     <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_4.jpg</file>
   </static>
   <transition type="overlay">
@@ -61,9 +61,9 @@
     <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_4.jpg</from>
     <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_5.jpg</to>
   </transition>
-  <!-- 15:00 -->
+  <!-- 17:00 -->
   <static>
-    <duration>7195.0</duration>
+    <duration>3595.0</duration>
     <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_5.jpg</file>
   </static>
   <transition type="overlay">
@@ -71,9 +71,9 @@
     <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_5.jpg</from>
     <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_6.jpg</to>
   </transition>
-  <!-- 17:00 -->
+  <!-- 18:00 -->
   <static>
-    <duration>5395.0</duration>
+    <duration>3595.0</duration>
     <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_6.jpg</file>
   </static>
   <transition type="overlay">
@@ -81,9 +81,9 @@
     <from>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_6.jpg</from>
     <to>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_7.jpg</to>
   </transition>
-  <!-- 18:30 -->
+  <!-- 19:00 -->
   <static>
-    <duration>5395.0</duration>
+    <duration>3595.0</duration>
     <file>/home/the_allumny/Pictures/Wallpapers/catalina-background/catalina_dynamic_7.jpg</file>
   </static>
   <transition type="overlay">
